@@ -1,3 +1,5 @@
+$(document).ready(function() {    
+
 var randomNumber = Math.floor(Math.random() * 101) + 19;
 
 console.log ("Random number is " + randomNumber);
@@ -177,4 +179,5 @@ $("#crystal4").click(function(){
 	crystalVar4 = Math.floor(Math.random() * 13) + 1;
 	console.log ("The new crystalVar4 is " + crystalVar4)
 	}
+});
 });
