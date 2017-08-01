@@ -1,0 +1,95 @@
+body {
+    background-image: url(../images/skyscraper.png);
+}
+
+h2 {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.header {
+	background-color: #c7712f;
+	color: white;
+	padding: 10px;
+	margin: 10px;
+	width: 340px;
+}
+
+.gameScreen { 
+	width: 375px;
+
+ }
+
+.instructions {
+	background-color: #FAE6CE;
+	color: green;
+	padding: 10px;
+	margin: 10px;
+	width: 600px;
+}
+
+.randomNumber {
+	background-color: #60c885;
+	color: purple;
+	font-size: 25px;
+	padding: 10px;
+	margin: 10px;
+	width: 200px;
+	height: 70px;
+	float: left;
+
+}
+
+.win-lose {
+	background-color: #56fdfa;
+	color: green;
+	width: 125px;
+	height: 100px;
+	padding: 10px;
+	margin: 10px;
+	float: right;
+}
+
+.crystals-box {
+	display: inline-block;
+
+}
+
+.crystals {
+	display: inline-block;
+	margin: 5px;
+	padding:5px;
+	background-color: white;
+
+
+}
+
+
+.total {
+	width: 500px;
+}
+
+.totalTitle {
+	background-color: #32a196;
+	color: white;
+	width: 200px;
+	height: 50px;
+	padding: 5px;
+	margin: 10px;
+}
+
+.totalWindow {
+	background-color: #32a196;
+	color: white;
+	font-size: 25px;
+	width: 200px;
+	height: 100px;
+	padding: 10px;
+	margin: 10px;
+
+}
+
+.crystal-image {
+	width: 50px;
+	padding: 5px;
+}
